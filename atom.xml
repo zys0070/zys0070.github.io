@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://zys0070.github.io/"/>
-  <updated>2019-03-03T10:17:00.786Z</updated>
+  <updated>2019-03-04T03:17:10.917Z</updated>
   <id>http://zys0070.github.io/</id>
   
   <author>
@@ -15,6 +15,20 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>目标检测</title>
+    <link href="http://zys0070.github.io/2019/03/04/mu-biao-jian-ce/"/>
+    <id>http://zys0070.github.io/2019/03/04/mu-biao-jian-ce/</id>
+    <published>2019-03-04T03:17:10.000Z</published>
+    <updated>2019-03-04T03:17:10.917Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
